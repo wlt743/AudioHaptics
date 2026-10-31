@@ -44,6 +44,8 @@ haptics.tuning.floor = 0.4     // 打底强度
 
 ## 算法
 
+> 设计取舍、每个参数的来历、走过的弯路，详见 **[docs/DESIGN.md](docs/DESIGN.md)**。
+
 ```
 音频 ──解码──> 22kHz 单声道 PCM
          │
